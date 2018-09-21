@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("Hello world");
 		
 		System.out.println("hello xcw");
+		
+		System.out.println("123");
 	}
 
 }
